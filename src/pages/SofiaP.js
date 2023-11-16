@@ -10,7 +10,7 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='isopod.jpg'
+            src='https://stay-curious.com/wp-content/uploads/2014/09/bathynomus_00.jpg'
             alt='sofia p'
           />
 

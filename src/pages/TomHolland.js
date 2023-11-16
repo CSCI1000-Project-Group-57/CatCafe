@@ -10,7 +10,7 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
+            src='https://www.tcinsects.com/wp-content/uploads/2021/07/Pocellio-Laevis-White-Copyright.jpg'
             alt='tom holland'
           />
 
