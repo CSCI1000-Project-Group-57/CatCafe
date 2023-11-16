@@ -1,6 +1,6 @@
 import Head from 'next/head'
 
-//website: https://catcafe-group57.netlify.app/
+//website: https://main--catcafe-group57.netlify.app/
 export default function Home() {
   return (
     <div className='container'>
@@ -18,7 +18,7 @@ export default function Home() {
         </p>
         <p className='description2'>
           Next, each team member will create their own about me file in the
-          pages directory:{'SofiaP.js '}
+          pages directory:{' '}
         </p>
         <code>src/page/teamMemberName.js</code>
 
