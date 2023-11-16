@@ -15,6 +15,22 @@ export default function examplePage() {
             alt='cool bug'
           />
           
+          <img
+            className='pic'
+            src='https://media.tenor.com/9nZR3y7oX58AAAAC/isopod-meme.gif'
+            />
+
+            <img
+            src='https://64.media.tumblr.com/208f73f8e2cddd24ef7b9ebd333b2b36/tumblr_p5u096ONF41x8q01eo1_500.gif'
+            />
+
+            <img src='https://64.media.tumblr.com/d7c5f802e490c763347accf27eb69a10/tumblr_mx3nfsKyj11qhgo13o1_400.gif' />
+            <img src='https://img1.picmix.com/output/stamp/normal/5/7/1/9/2319175_bdc8d.gif' />
+
+            <img
+            className='pic'
+            src='https://64.media.tumblr.com/c7eb262e79667e7648b0e90c345d7528/tumblr_pflkubqjH71x8q01eo1_400.gif'
+            />
 
           <p className='description'>
             
@@ -53,17 +69,7 @@ Diam in arcu cursus euismod quis viverra nibh cras. Morbi leo urna molestie at e
 Convallis a cras semper auctor neque vitae. Isopods are my favourite examples of abyssal gigantism.
 
             </p>
-            <img
-            className='pic'
-            src='https://media.tenor.com/9nZR3y7oX58AAAAC/isopod-meme.gif'
-            />
 
-            <img
-            src='https://64.media.tumblr.com/208f73f8e2cddd24ef7b9ebd333b2b36/tumblr_p5u096ONF41x8q01eo1_500.gif'
-            />
-
-            <img src='https://64.media.tumblr.com/d7c5f802e490c763347accf27eb69a10/tumblr_mx3nfsKyj11qhgo13o1_400.gif' />
-            <img src='https://img1.picmix.com/output/stamp/normal/5/7/1/9/2319175_bdc8d.gif' />
 
             <p className='description'>
  Eu feugiat pretium nibh ipsum consequat nisl. Mauris vitae ultricies leo integer malesuada nunc vel. Nisl pretium fusce id velit ut tortor pretium viverra. Pharetra sit amet aliquam id diam maecenas ultricies mi eget. Malesuada proin libero nunc consequat interdum varius sit amet mattis. Pellentesque id nibh tortor id aliquet lectus proin. Mauris rhoncus aenean vel elit scelerisque. Nec ultrices dui sapien eget mi. Pellentesque diam volutpat commodo sed egestas. Gravida arcu ac tortor dignissim. Sed vulputate odio ut enim. Augue ut lectus arcu bibendum at varius vel. Nunc sed augue lacus viverra vitae congue eu. Fames ac turpis egestas sed tempus urna et pharetra pharetra. Neque ornare aenean euismod elementum nisi quis eleifend quam adipiscing. Ultricies mi eget mauris pharetra et ultrices neque. Egestas quis ipsum suspendisse ultrices gravida. Odio facilisis mauris sit amet massa.
@@ -110,11 +116,9 @@ Arcu dui vivamus arcu felis bibendum ut tristique. Dui nunc mattis enim ut. Tell
 
 Ac feugiat sed lectus vestibulum mattis ullamcorper. 'Rolly pollies' or 'woodlouses' are the most well-known type of isopod.
               </p>
-
-            <img
-            className='pic'
-            src='https://64.media.tumblr.com/c7eb262e79667e7648b0e90c345d7528/tumblr_pflkubqjH71x8q01eo1_400.gif'
-            />
+              <img
+              src='https://64.media.tumblr.com/f453b5df21dc998cd371d95408d1457d/3c8e668c45e034a0-59/s400x600/02dbb4a1eaf56e1d0dcb203d1be1f611bf1ee4ef.gif'
+              />
 
             <p className='description'>
  Et molestie ac feugiat sed. Viverra adipiscing at in tellus integer. Mollis nunc sed id semper risus in hendrerit gravida. Scelerisque in dictum non consectetur a. Sit amet consectetur adipiscing elit ut. Semper quis lectus nulla at volutpat diam. Lacus vel facilisis volutpat est. Consequat ac felis donec et odio pellentesque diam. Duis convallis convallis tellus id interdum velit laoreet id donec. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Enim ut sem viverra aliquet eget sit. Blandit aliquam etiam erat velit scelerisque in. Erat velit scelerisque in dictum non consectetur a erat. Ultricies tristique nulla aliquet enim tortor at. Consequat mauris nunc congue nisi vitae suscipit tellus. Risus nec feugiat in fermentum posuere. Amet mattis vulputate enim nulla.
