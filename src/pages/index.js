@@ -1,6 +1,6 @@
 import Head from 'next/head'
 
-//website: https://main--catcafe-group57.netlify.app/
+//website: https://main--catcafe-group57.netlify.app/ or https://catcafe-group57.netlify.app 
 export default function Home() {
   return (
     <div className='container'>
