@@ -11,7 +11,7 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://stay-curious.com/wp-content/uploads/2014/09/bathynomus_00.jpg'
+            src='https://64.media.tumblr.com/37d171d7aaab6a6b67bed8080994f0d5/bc471190167b6636-96/s500x750/4dc8822d93a736b2cad6a88d8973a4cd071bd911.gif'
             alt='cool bug'
           />
           
@@ -50,7 +50,16 @@ Nullam vehicula ipsum a arcu cursus vitae congue mauris. Vitae justo eget magna 
 
 Diam in arcu cursus euismod quis viverra nibh cras. Morbi leo urna molestie at elementum eu. Maecenas pharetra convallis posuere morbi leo urna molestie at elementum. Consequat semper viverra nam libero justo laoreet. Luctus venenatis lectus magna fringilla urna. Tempor id eu nisl nunc mi. Vitae congue mauris rhoncus aenean vel elit scelerisque. Ut porttitor leo a diam sollicitudin tempor id eu nisl. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Sollicitudin tempor id eu nisl. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Vel fringilla est ullamcorper eget nulla. Quis blandit turpis cursus in hac habitasse.
 
-Convallis a cras semper auctor neque vitae. Isopods are my favourite examples of abyssal gigantism. Eu feugiat pretium nibh ipsum consequat nisl. Mauris vitae ultricies leo integer malesuada nunc vel. Nisl pretium fusce id velit ut tortor pretium viverra. Pharetra sit amet aliquam id diam maecenas ultricies mi eget. Malesuada proin libero nunc consequat interdum varius sit amet mattis. Pellentesque id nibh tortor id aliquet lectus proin. Mauris rhoncus aenean vel elit scelerisque. Nec ultrices dui sapien eget mi. Pellentesque diam volutpat commodo sed egestas. Gravida arcu ac tortor dignissim. Sed vulputate odio ut enim. Augue ut lectus arcu bibendum at varius vel. Nunc sed augue lacus viverra vitae congue eu. Fames ac turpis egestas sed tempus urna et pharetra pharetra. Neque ornare aenean euismod elementum nisi quis eleifend quam adipiscing. Ultricies mi eget mauris pharetra et ultrices neque. Egestas quis ipsum suspendisse ultrices gravida. Odio facilisis mauris sit amet massa.
+Convallis a cras semper auctor neque vitae. Isopods are my favourite examples of abyssal gigantism.
+
+            </p>
+            <img
+            className='pic'
+            src='https://media.tenor.com/9nZR3y7oX58AAAAC/isopod-meme.gif'
+            />
+
+            <p className='description'>
+ Eu feugiat pretium nibh ipsum consequat nisl. Mauris vitae ultricies leo integer malesuada nunc vel. Nisl pretium fusce id velit ut tortor pretium viverra. Pharetra sit amet aliquam id diam maecenas ultricies mi eget. Malesuada proin libero nunc consequat interdum varius sit amet mattis. Pellentesque id nibh tortor id aliquet lectus proin. Mauris rhoncus aenean vel elit scelerisque. Nec ultrices dui sapien eget mi. Pellentesque diam volutpat commodo sed egestas. Gravida arcu ac tortor dignissim. Sed vulputate odio ut enim. Augue ut lectus arcu bibendum at varius vel. Nunc sed augue lacus viverra vitae congue eu. Fames ac turpis egestas sed tempus urna et pharetra pharetra. Neque ornare aenean euismod elementum nisi quis eleifend quam adipiscing. Ultricies mi eget mauris pharetra et ultrices neque. Egestas quis ipsum suspendisse ultrices gravida. Odio facilisis mauris sit amet massa.
 
 Sit amet nisl purus in mollis nunc. At volutpat diam ut venenatis tellus in metus vulputate. Libero justo laoreet sit amet cursus sit. A condimentum vitae sapien pellentesque habitant morbi. Nisl condimentum id venenatis a condimentum vitae sapien pellentesque. Ut morbi tincidunt augue interdum velit euismod. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor. Amet cursus sit amet dictum sit amet justo donec. Ac turpis egestas integer eget. Sodales ut eu sem integer vitae justo eget magna. Tempus egestas sed sed risus pretium.
 
@@ -92,7 +101,16 @@ Tempor id eu nisl nunc mi. Fringilla urna porttitor rhoncus dolor purus non. Con
 
 Arcu dui vivamus arcu felis bibendum ut tristique. Dui nunc mattis enim ut. Tellus in hac habitasse platea dictumst vestibulum rhoncus est. Blandit libero volutpat sed cras. Quis varius quam quisque id. Ligula ullamcorper malesuada proin libero nunc consequat interdum varius. Integer feugiat scelerisque varius morbi enim nunc faucibus. Tortor vitae purus faucibus ornare suspendisse sed nisi. Aliquet nibh praesent tristique magna sit amet purus. Tortor consequat id porta nibh venenatis. Dolor purus non enim praesent. Quisque non tellus orci ac auctor augue mauris augue neque. Sit amet facilisis magna etiam tempor orci. Semper risus in hendrerit gravida rutrum quisque non tellus. Arcu cursus vitae congue mauris rhoncus aenean. Adipiscing tristique risus nec feugiat in fermentum. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Convallis a cras semper auctor neque vitae.
 
-Ac feugiat sed lectus vestibulum mattis ullamcorper. 'Rolly pollies' or 'woodlouses' are the most well-known type of isopod. Et molestie ac feugiat sed. Viverra adipiscing at in tellus integer. Mollis nunc sed id semper risus in hendrerit gravida. Scelerisque in dictum non consectetur a. Sit amet consectetur adipiscing elit ut. Semper quis lectus nulla at volutpat diam. Lacus vel facilisis volutpat est. Consequat ac felis donec et odio pellentesque diam. Duis convallis convallis tellus id interdum velit laoreet id donec. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Enim ut sem viverra aliquet eget sit. Blandit aliquam etiam erat velit scelerisque in. Erat velit scelerisque in dictum non consectetur a erat. Ultricies tristique nulla aliquet enim tortor at. Consequat mauris nunc congue nisi vitae suscipit tellus. Risus nec feugiat in fermentum posuere. Amet mattis vulputate enim nulla.
+Ac feugiat sed lectus vestibulum mattis ullamcorper. 'Rolly pollies' or 'woodlouses' are the most well-known type of isopod.
+              </p>
+
+            <img
+            className='pic'
+            src='https://64.media.tumblr.com/c7eb262e79667e7648b0e90c345d7528/tumblr_pflkubqjH71x8q01eo1_400.gif'
+            />
+
+            <p className='description'>
+ Et molestie ac feugiat sed. Viverra adipiscing at in tellus integer. Mollis nunc sed id semper risus in hendrerit gravida. Scelerisque in dictum non consectetur a. Sit amet consectetur adipiscing elit ut. Semper quis lectus nulla at volutpat diam. Lacus vel facilisis volutpat est. Consequat ac felis donec et odio pellentesque diam. Duis convallis convallis tellus id interdum velit laoreet id donec. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Enim ut sem viverra aliquet eget sit. Blandit aliquam etiam erat velit scelerisque in. Erat velit scelerisque in dictum non consectetur a erat. Ultricies tristique nulla aliquet enim tortor at. Consequat mauris nunc congue nisi vitae suscipit tellus. Risus nec feugiat in fermentum posuere. Amet mattis vulputate enim nulla.
 
 Nibh venenatis cras sed felis. Pellentesque adipiscing commodo elit at imperdiet dui. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Nunc eget lorem dolor sed viverra ipsum nunc. Pellentesque diam volutpat commodo sed. In iaculis nunc sed augue lacus viverra vitae congue eu. Id neque aliquam vestibulum morbi blandit cursus risus. Dui nunc mattis enim ut tellus elementum sagittis vitae. Neque volutpat ac tincidunt vitae semper quis. Orci ac auctor augue mauris augue neque gravida in.
 
