@@ -10,28 +10,9 @@ export default function examplePage() {
           <div className='underline'>
             <h1 className='title'>Welcome to Sofia's Lecture on Isopods</h1>
           </div>
-          <img
-            className='pic'
-            src='https://64.media.tumblr.com/37d171d7aaab6a6b67bed8080994f0d5/bc471190167b6636-96/s500x750/4dc8822d93a736b2cad6a88d8973a4cd071bd911.gif'
-            alt='cool bug'
-          />
-          
-          <img
-            className='pic'
-            src='https://media.tenor.com/9nZR3y7oX58AAAAC/isopod-meme.gif'
-            />
 
-            <img
-            src='https://64.media.tumblr.com/208f73f8e2cddd24ef7b9ebd333b2b36/tumblr_p5u096ONF41x8q01eo1_500.gif'
-            />
-
-            <img src='https://64.media.tumblr.com/d7c5f802e490c763347accf27eb69a10/tumblr_mx3nfsKyj11qhgo13o1_400.gif' />
             <img src='https://img1.picmix.com/output/stamp/normal/5/7/1/9/2319175_bdc8d.gif' />
 
-            <img
-            className='pic'
-            src='https://64.media.tumblr.com/c7eb262e79667e7648b0e90c345d7528/tumblr_pflkubqjH71x8q01eo1_400.gif'
-            />
 
           <p className='description'>
             
@@ -157,7 +138,28 @@ And so, although we always have more to learn, every day we pursue greater heigh
             src='https://media.tenor.com/z7y-yI7yhXcAAAAd/roly-poly.gif'
           />
 
+          <img
+            className='pic'
+            src='https://64.media.tumblr.com/37d171d7aaab6a6b67bed8080994f0d5/bc471190167b6636-96/s500x750/4dc8822d93a736b2cad6a88d8973a4cd071bd911.gif'
+            alt='cool bug'
+          />
+          
+          <img
+            className='pic'
+            src='https://media.tenor.com/9nZR3y7oX58AAAAC/isopod-meme.gif'
+            />
 
+            <img
+            src='https://64.media.tumblr.com/208f73f8e2cddd24ef7b9ebd333b2b36/tumblr_p5u096ONF41x8q01eo1_500.gif'
+            />
+
+            <img src='https://64.media.tumblr.com/d7c5f802e490c763347accf27eb69a10/tumblr_mx3nfsKyj11qhgo13o1_400.gif' />
+
+            <img
+            className='pic'
+            src='https://64.media.tumblr.com/c7eb262e79667e7648b0e90c345d7528/tumblr_pflkubqjH71x8q01eo1_400.gif'
+            />
+            
           <a className='button' href='/'>
             <p> Let me leave this horrible place please</p>
           </a>
