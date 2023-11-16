@@ -215,7 +215,7 @@ Tempor commodo ullamcorper a lacus vestibulum sed. Neque convallis a cras semper
         <style jsx global>{`
           html,
           body {
-            background-image: url("https://i.pinimg.com/originals/66/9f/9e/669f9e9981a7cb4bfe804c72fb79dbdc.gif");
+            background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hoMnE1bGUxdDd4dWRxZWxscWprZ3JtMGp1ZGVvMTdyMWdueWQxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FlodpfQUBSp20/giphy.gif");
             color: white;
             padding: 0;
             margin: 0;
