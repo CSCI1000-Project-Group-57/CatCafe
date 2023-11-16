@@ -120,11 +120,10 @@ Tempor commodo ullamcorper a lacus vestibulum sed. Neque convallis a cras semper
 
           </p>
 
-          <img>
+          <img
             className='pic2'
             src='https://i.pinimg.com/originals/66/9f/9e/669f9e9981a7cb4bfe804c72fb79dbdc.gif'
-            alt='it actually wasn't a bug'
-          </img>
+          />
 
 
           <a className='button' href='/'>
@@ -170,6 +169,11 @@ Tempor commodo ullamcorper a lacus vestibulum sed. Neque convallis a cras semper
           }
 
           .pic {
+            height: 450px;
+            width: 450px;
+          }
+
+          .pic2{
             height: 450px;
             width: 450px;
           }
