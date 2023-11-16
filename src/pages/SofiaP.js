@@ -141,7 +141,7 @@ And so, although we always have more to learn, every day we pursue greater heigh
           </p>
 
           <img
-            className='pic2'
+            className='pic'
             src='https://media.tenor.com/z7y-yI7yhXcAAAAd/roly-poly.gif'
           />
 
@@ -188,15 +188,7 @@ And so, although we always have more to learn, every day we pursue greater heigh
             font-size: 1.5rem;
           }
 
-          .pic {
-            height: 450px;
-            width: 450px;
-          }
-
-          .pic2{
-            height: 450px;
-            width: 450px;
-          }
+          .pic {}
 
           .button {
             /* margin: .5rem; */
