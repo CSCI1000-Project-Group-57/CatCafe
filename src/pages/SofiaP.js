@@ -203,6 +203,7 @@ Tempor commodo ullamcorper a lacus vestibulum sed. Neque convallis a cras semper
           }
 
           code {
+            background-image: url("https://i.pinimg.com/originals/66/9f/9e/669f9e9981a7cb4bfe804c72fb79dbdc.gif");
             background: #24211b;
             border-radius: 5px;
             padding: 0.75rem;
