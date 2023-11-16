@@ -7,7 +7,7 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm an Isopod. </h1>
+            <h1 className='title'>Welcome to Sofia's Lecture on Isopods</h1>
           </div>
           <img
             className='pic'
@@ -18,7 +18,7 @@ export default function examplePage() {
 
           <p className='description'>
             
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aenean euismod elementum nisi quis eleifend. Diam vel quam elementum pulvinar etiam non quam lacus. Montes nascetur ridiculus mus mauris vitae ultricies leo. Auctor urna nunc id cursus. Quis ipsum suspendisse ultrices gravida dictum. Id donec ultrices tincidunt arcu non. Sed velit dignissim sodales ut eu sem integer. Dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Ipsum a arcu cursus vitae congue mauris rhoncus. Feugiat scelerisque varius morbi enim nunc faucibus. Dictum fusce ut placerat orci nulla pellentesque dignissim enim. Amet est placerat in egestas erat imperdiet. Pellentesque id nibh tortor id. Tortor at auctor urna nunc id cursus metus aliquam eleifend. Egestas dui id ornare arcu odio ut sem nulla pharetra. Odio pellentesque diam volutpat commodo sed egestas. Sed viverra ipsum nunc aliquet bibendum enim facilisis.
+            Isopods are cool. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aenean euismod elementum nisi quis eleifend. Diam vel quam elementum pulvinar etiam non quam lacus. Montes nascetur ridiculus mus mauris vitae ultricies leo. Auctor urna nunc id cursus. Quis ipsum suspendisse ultrices gravida dictum. Id donec ultrices tincidunt arcu non. Sed velit dignissim sodales ut eu sem integer. Dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Ipsum a arcu cursus vitae congue mauris rhoncus. Feugiat scelerisque varius morbi enim nunc faucibus. Dictum fusce ut placerat orci nulla pellentesque dignissim enim. Amet est placerat in egestas erat imperdiet. Pellentesque id nibh tortor id. Tortor at auctor urna nunc id cursus metus aliquam eleifend. Egestas dui id ornare arcu odio ut sem nulla pharetra. Odio pellentesque diam volutpat commodo sed egestas. Sed viverra ipsum nunc aliquet bibendum enim facilisis.
 
 Elementum curabitur vitae nunc sed velit dignissim sodales ut eu. Odio euismod lacinia at quis risus sed. At ultrices mi tempus imperdiet nulla malesuada. Dignissim sodales ut eu sem. Mauris ultrices eros in cursus turpis massa tincidunt dui ut. Nullam vehicula ipsum a arcu cursus vitae congue. Praesent elementum facilisis leo vel fringilla. Euismod quis viverra nibh cras pulvinar. Egestas erat imperdiet sed euismod nisi. Quis lectus nulla at volutpat diam. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit lectus. Tortor at risus viverra adipiscing. Placerat orci nulla pellentesque dignissim enim sit amet venenatis urna. Risus in hendrerit gravida rutrum quisque non tellus. Nullam ac tortor vitae purus faucibus ornare suspendisse. Ultricies integer quis auctor elit. Risus ultricies tristique nulla aliquet enim. Mauris a diam maecenas sed enim ut. Feugiat in ante metus dictum at tempor.
 
@@ -122,12 +122,12 @@ Tempor commodo ullamcorper a lacus vestibulum sed. Neque convallis a cras semper
 
           <img
             className='pic2'
-            src='https://i.pinimg.com/originals/66/9f/9e/669f9e9981a7cb4bfe804c72fb79dbdc.gif'
+            src='https://media.tenor.com/z7y-yI7yhXcAAAAd/roly-poly.gif'
           />
 
 
           <a className='button' href='/'>
-            <p> Back to Home Page</p>
+            <p> Let me leave this horrible place please</p>
           </a>
         </main>
 
@@ -203,7 +203,6 @@ Tempor commodo ullamcorper a lacus vestibulum sed. Neque convallis a cras semper
           }
 
           code {
-            background-image: url("https://i.pinimg.com/originals/66/9f/9e/669f9e9981a7cb4bfe804c72fb79dbdc.gif");
             background: #24211b;
             border-radius: 5px;
             padding: 0.75rem;
@@ -216,6 +215,8 @@ Tempor commodo ullamcorper a lacus vestibulum sed. Neque convallis a cras semper
         <style jsx global>{`
           html,
           body {
+            background-image: url("https://i.pinimg.com/originals/66/9f/9e/669f9e9981a7cb4bfe804c72fb79dbdc.gif");
+            color: white;
             padding: 0;
             margin: 0;
             font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,

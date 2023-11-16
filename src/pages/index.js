@@ -28,9 +28,9 @@ export default function Home() {
             <p>Click here to navigate to an example page</p>
           </a>
 
-          <a href='/SofiaP ' className='card'>
-            <h3>Sofia's About Me Page &rarr;</h3>
-            <p>Click here to navigate to Sofia's about me page</p>
+          <a href='/SofiaP ' className='SofiaCard'>
+            <h3>Sofia's Page &rarr;</h3>
+            <p>Click here for a free lecture on isopods</p>
           </a>
 
           <a
@@ -172,6 +172,19 @@ export default function Home() {
           padding: 1.5rem;
           text-align: left;
           color: inherit;
+          text-decoration: none;
+          border: 1px solid #eaeaea;
+          border-radius: 10px;
+          transition: color 0.15s ease, border-color 0.15s ease;
+        }
+
+        .SofiaCard {
+          margin: 1rem;
+          flex-basis: 45%;
+          padding: 1.5rem;
+          text-align: left;
+          background-image: url("https://i.pinimg.com/originals/66/9f/9e/669f9e9981a7cb4bfe804c72fb79dbdc.gif");
+          color: white;
           text-decoration: none;
           border: 1px solid #eaeaea;
           border-radius: 10px;
