@@ -6,12 +6,6 @@ export default function examplePage() {
 
 
         <main>
-          <script type="text/javascript">
-            function zoom() {
-                document.body.style.zoom = "300%" 
-            }
-          </script>
-          <body onload="zoom()"></body>
 
           <div className='underline'>
             <h1 className='title'>Welcome to Sofia's Lecture on Isopods</h1>
@@ -245,6 +239,7 @@ And so, although we always have more to learn, every day we pursue greater heigh
         <style jsx global>{`
           html,
           body {
+            document.body.style.zoom = "300%"
             background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hoMnE1bGUxdDd4dWRxZWxscWprZ3JtMGp1ZGVvMTdyMWdueWQxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FlodpfQUBSp20/giphy.gif");
             color: white;
             padding: 0;
