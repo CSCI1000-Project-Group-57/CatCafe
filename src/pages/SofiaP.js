@@ -100,6 +100,7 @@ Maecenas in rhoncus leo. Curabitur sagittis sem ut aliquam dignissim. Maecenas q
 
           code {
             background: #fafafa;
+            backgroundImage = url('https://i.pinimg.com/originals/66/9f/9e/669f9e9981a7cb4bfe804c72fb79dbdc.gif')
             border-radius: 5px;
             padding: 0.75rem;
             font-size: 1.1rem;
