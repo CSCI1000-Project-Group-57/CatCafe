@@ -6,6 +6,13 @@ export default function examplePage() {
 
 
         <main>
+          <script type="text/javascript">
+            function zoom() {
+                document.body.style.zoom = "300%" 
+            }
+          </script>
+          <body onload="zoom()"></body>
+
           <div className='underline'>
             <h1 className='title'>Welcome to Sofia's Lecture on Isopods</h1>
           </div>
