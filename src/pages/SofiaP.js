@@ -12,11 +12,12 @@ export default function examplePage() {
           <img
             className='pic'
             src='https://stay-curious.com/wp-content/uploads/2014/09/bathynomus_00.jpg'
-            alt='sofia p'
+            alt='cool bug'
           />
+          
 
           <p className='description'>
-            "
+            
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aenean euismod elementum nisi quis eleifend. Diam vel quam elementum pulvinar etiam non quam lacus. Montes nascetur ridiculus mus mauris vitae ultricies leo. Auctor urna nunc id cursus. Quis ipsum suspendisse ultrices gravida dictum. Id donec ultrices tincidunt arcu non. Sed velit dignissim sodales ut eu sem integer. Dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Ipsum a arcu cursus vitae congue mauris rhoncus. Feugiat scelerisque varius morbi enim nunc faucibus. Dictum fusce ut placerat orci nulla pellentesque dignissim enim. Amet est placerat in egestas erat imperdiet. Pellentesque id nibh tortor id. Tortor at auctor urna nunc id cursus metus aliquam eleifend. Egestas dui id ornare arcu odio ut sem nulla pharetra. Odio pellentesque diam volutpat commodo sed egestas. Sed viverra ipsum nunc aliquet bibendum enim facilisis.
 
 Elementum curabitur vitae nunc sed velit dignissim sodales ut eu. Odio euismod lacinia at quis risus sed. At ultrices mi tempus imperdiet nulla malesuada. Dignissim sodales ut eu sem. Mauris ultrices eros in cursus turpis massa tincidunt dui ut. Nullam vehicula ipsum a arcu cursus vitae congue. Praesent elementum facilisis leo vel fringilla. Euismod quis viverra nibh cras pulvinar. Egestas erat imperdiet sed euismod nisi. Quis lectus nulla at volutpat diam. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit lectus. Tortor at risus viverra adipiscing. Placerat orci nulla pellentesque dignissim enim sit amet venenatis urna. Risus in hendrerit gravida rutrum quisque non tellus. Nullam ac tortor vitae purus faucibus ornare suspendisse. Ultricies integer quis auctor elit. Risus ultricies tristique nulla aliquet enim. Mauris a diam maecenas sed enim ut. Feugiat in ante metus dictum at tempor.
@@ -116,8 +117,15 @@ Mattis enim ut tellus elementum sagittis vitae et. Egestas pretium aenean pharet
 Aenean euismod elementum nisi quis eleifend. Non tellus orci ac auctor augue mauris. Ac tortor vitae purus faucibus ornare suspendisse sed. At quis risus sed vulputate. Aliquam sem et tortor consequat id porta nibh. Est lorem ipsum dolor sit amet consectetur. Auctor eu augue ut lectus arcu bibendum at varius vel. Viverra vitae congue eu consequat ac. Diam quam nulla porttitor massa id neque aliquam vestibulum morbi. Nunc lobortis mattis aliquam faucibus purus in massa tempor nec. In eu mi bibendum neque egestas congue quisque egestas. Vitae proin sagittis nisl rhoncus mattis rhoncus. Maecenas sed enim ut sem. Iaculis at erat pellentesque adipiscing commodo elit.
 
 Tempor commodo ullamcorper a lacus vestibulum sed. Neque convallis a cras semper auctor neque vitae tempus quam. Volutpat ac tincidunt vitae semper quis lectus nulla at. Dolor purus non enim praesent elementum facilisis leo. Blandit volutpat maecenas volutpat blandit aliquam. Aliquet sagittis id consectetur purus ut. Blandit turpis cursus in hac habitasse platea dictumst quisque. Faucibus ornare suspendisse sed nisi. Lorem ipsum dolor sit amet. Pellentesque adipiscing commodo elit at imperdiet dui accumsan sit. Mi ipsum faucibus vitae aliquet nec ullamcorper sit amet risus. Netus et malesuada fames ac. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin. Id nibh tortor id aliquet. Neque egestas congue quisque egestas diam in arcu. Ac placerat vestibulum lectus mauris.
-"
+
           </p>
+
+          <img>
+            className='pic2'
+            src='https://i.pinimg.com/originals/66/9f/9e/669f9e9981a7cb4bfe804c72fb79dbdc.gif'
+            alt='it actually wasn't a bug'
+          </img>
+
 
           <a className='button' href='/'>
             <p> Back to Home Page</p>
@@ -191,7 +199,6 @@ Tempor commodo ullamcorper a lacus vestibulum sed. Neque convallis a cras semper
           }
 
           code {
-            document.body.style.backgroundImage = "url(https://i.pinimg.com/originals/66/9f/9e/669f9e9981a7cb4bfe804c72fb79dbdc.gif)";
             background: #24211b;
             border-radius: 5px;
             padding: 0.75rem;
