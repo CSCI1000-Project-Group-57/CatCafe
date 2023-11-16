@@ -18,7 +18,7 @@ export default function Home() {
         </p>
         <p className='description2'>
           Next, each team member will create their own about me file in the
-          pages directory:{' '}
+          pages directory:{'SofiaP.js '}
         </p>
         <code>src/page/teamMemberName.js</code>
 
@@ -26,6 +26,11 @@ export default function Home() {
           <a href='/TomHolland ' className='card'>
             <h3>Example About Me Page &rarr;</h3>
             <p>Click here to navigate to an example page</p>
+          </a>
+
+          <a href='/SofiaP ' className='card'>
+            <h3>Sofia's About Me Page &rarr;</h3>
+            <p>Click here to navigate to Sofia's about me page</p>
           </a>
 
           <a
