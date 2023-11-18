@@ -32,6 +32,15 @@ export default function Home() {
             <h3>Sofia's Page &rarr;</h3>
             <p>Click here for a free lecture on isopods</p>
           </a>
+          <a href='/EvanS ' className='card'>
+            <h3>Evan Su's Page &rarr;</h3>
+            <p>Click here for cute cat photos</p>
+          </a>
+          <a href='/MelanieP ' className='MelanieCard'>
+            <h3>Melanie's Page &rarr;</h3>
+            <p>I really like opossums :)</p>
+          </a>
+
 
           <a
             href='https://github.com/vedant29/Project-CSCI-1000'
