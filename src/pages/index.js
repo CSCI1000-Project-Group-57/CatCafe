@@ -33,6 +33,11 @@ export default function Home() {
             <p>Click here for a free lecture on isopods</p>
           </a>
 
+          <a href='/MelanieP ' className='MelanieCard'>
+            <h3>Melanie's Page &rarr;</h3>
+            <p>I really like opossums :)</p>
+          </a>
+
           <a
             href='https://github.com/vedant29/Project-CSCI-1000'
             className='card'>
@@ -186,6 +191,21 @@ export default function Home() {
           background-image: url("https://i.pinimg.com/originals/66/9f/9e/669f9e9981a7cb4bfe804c72fb79dbdc.gif");
           color: white;
           text-decoration: none;
+          border: 1px solid #eaeaea;
+          border-radius: 10px;
+          transition: color 0.15s ease, border-color 0.15s ease;
+        }
+
+        .MelanieCard {
+          margin: 1rem;
+          flex-basis: 45%;
+          padding: 1.5rem;
+          text-align: left;
+          background-image: url("https://www.cbc.ca/natureofthings/content/legacy/NCC_Opossums3_1920.jpg");
+          background-size: 350px;
+          background-color: white;
+          color: rgba(255, 99, 71, 1);
+          text-decoration:  black wavy underline;
           border: 1px solid #eaeaea;
           border-radius: 10px;
           transition: color 0.15s ease, border-color 0.15s ease;
