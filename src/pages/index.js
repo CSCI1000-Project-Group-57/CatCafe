@@ -33,6 +33,11 @@ export default function Home() {
             <p>Click here for a free lecture on isopods</p>
           </a>
 
+          <a href='/EvanS ' className='card'>
+            <h3>Evan's Page &rarr;</h3>
+            <p>Click here to see a cat image</p>
+          </a>
+
           <a
             href='https://github.com/vedant29/Project-CSCI-1000'
             className='card'>
