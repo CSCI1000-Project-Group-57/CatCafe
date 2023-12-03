@@ -159,10 +159,57 @@ And so, although we always have more to learn, every day we pursue greater heigh
             className='pic'
             src='https://64.media.tumblr.com/c7eb262e79667e7648b0e90c345d7528/tumblr_pflkubqjH71x8q01eo1_400.gif'
             />
+          <details>
+          <summary> The door to the exit </summary>
+            <p> You enter the labyrinth in an attempt to escape. Two paths branch out ahead of you. Which do you take?</p>
+            <details>
+            <summary>The left path, deeper into the darkness. </summary>
+            <p> The air feels damp and cold. You shiver, and pull your cloak closer. Another choice greets you at the end of the hall. </p>
+
+              <details> 
+                <summary> A ladder. Climb up it? </summary>
+                <p> The ladder leads up to a smooth, stone ceiling. You have no choice but to climb back down.</p>
+              </details> 
+
+              <details> 
+                <summary> Stairs. Descend further downwards? </summary>
+                <p> You walk down, and down, and further down. The stairs seem to descend forever. By the time your feet are bleeding, you finally reach a room. And there, you... </p>
+                <details> 
+                  <summary> Approach the mirror at the center of the room </summary>
+                  <p> You walk closer, and gasp at your reflection. The journey has transformed you, into something you no longer recognize. You don't know whether to feel sickened or overjoyed. All you know is that you want to leave. </p>
+                  
+                  <img
+                    className='pic'
+                    src='https://render.fineartamerica.com/images/rendered/default/canvas-print/10/7/mirror/break/images-medium/giant-marine-isopod-dant-fenolio-canvas-print.jpg'
+                  />
+                  <a className='button' href='/'>
+                    <p> Let me leave, please.</p>
+                  </a>
+                </details> 
+
+              </details> 
             
-          <a className='button' href='/'>
-            <p> Let me leave this horrible place please</p>
-          </a>
+
+            </details>
+
+            <details>
+            <summary>The right path, towards the sound of whispering. </summary>
+              <p> The further you go, the more lost you feel. The whispers seem to constantly evade you, always two steps out of reach. </p>
+              <details>
+                <summary> Chase them further? </summary>
+                <p> As you run, you see a shadowy figure ahead of you. The whispers grow more clear. </p>
+                <details>
+                  <summary> You can almost hear them... </summary>
+                  <p> You finally catch up to the figure. When you reach to grab their arm, your hand passes right through them.</p>
+                    <details> 
+                      <summary> Their form begins to fade as they whisper... </summary>
+                        <p> "Isopods are cool". And, deep within you, you know. You know, and you believe it more than anything you've ever held true: Isopods are cool. </p>
+                    </details>
+                </details>
+              </details>
+            </details>
+            
+          </details>
         </main>
 
         <style jsx>{`
